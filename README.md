@@ -49,6 +49,15 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ⚡ Improving my TypeScript and NestJS skills
 
 # Tech Stack
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 <span style="background-color:#fff">
 
 <p float="left" style="background-color:#fff;">
