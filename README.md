@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Full-stack Developer with a focus on the JavaScript ecosystem. Outside of programming I'm a nature explorer 🌱
+
+👯 I’m working on an awesome project that focuses on locals sharing their daily activities with tourists
+⚡ Improving my TypeScript and NestJS skills
