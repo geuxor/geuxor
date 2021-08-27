@@ -1,27 +1,25 @@
-### Hi there 👋
+### Welcome... 👋
 
-<!--
-**geuxor/geuxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer and Nature Explorer 🌱**
 
-Here are some ideas to get you started:
+# Goal
+To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Desire
+I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
 
-Full-stack Developer and Nature Explorer 🌱
+# Current Studies
+⚡ Improving my TypeScript and NestJS skills
+🔭 Deployment with Docker, AWS
+🌱 Playing with Expo and React Native
+👯 Getting my Product Management Certification
+✨ Finishing my PPL Licence
 
 Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
 
 ## _Localife_
-[github](https://github.com/geuxor/local-life)
-_A P2P platform where Locals can share their daily activities with tourists_
+[github](https://github.com/geuxor/local-life)<br>
+_A P2P platform where Locals can share their daily activities with tourists_<br>
 `Javascript, TypeScript, React, Redux, CSS, Style-components, Express, Sequelize, Postgres, Redis, NestJS, Cloudinary, Geocoder`
 
 ## _Colonyal_
@@ -39,17 +37,10 @@ _A community of expat to share events, products and new articles_
 _A Platform to help teachers build their websites in a fast and easy manner_
 `Ruby, Rail, Postgresql, Puma, SASS, Turbolinks, jbuilder, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara, Pundit, Devise`
 
-# Goal
-To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
-
-# Desire
-I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
-
-# Current Studies
-⚡ Improving my TypeScript and NestJS skills
-
 # My Tech Stack
 
 <p float="left" style="background-color:#fff;">
   <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="700"/>
 </p>
+
+📫 [linkedIn](https://www.linkedin.com/in/german-b/)<br>
