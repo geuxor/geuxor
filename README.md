@@ -50,22 +50,12 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
-```diff
-- asdf
-! text in green
-! text in orange
-- text in gray
-@@ text in purple (and bold)@@
-```
-
 <span style="background-color:#fff">
  <p float="left" style="background-color:#fff;">
-```diff
-- asdf
-
+  <style>{p"background-color:#fff";}</style>
  <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
  <img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="60"/>
-```
+
  <img src="https://euroamerican.dk/photo/localife/express_resize.png" alt="Express" width="60"/>
  <img src="https://euroamerican.dk/photo/localife/redux_resize.png" alt="Redux" width="60"/>
  <img src="https://euroamerican.dk/photo/localife/react_resize.jpg" alt="React" width="60"/>
