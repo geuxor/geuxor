@@ -50,7 +50,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
-<div class="bg-gray">
+<div class="text-white bg-gray-dark mb-2">
   .text-gray-dark on .bg-gray
 </div>
 
