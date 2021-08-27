@@ -19,12 +19,12 @@ Currently focused on the JavaScript ecosystem, I’m working on the following ex
 
 ### _Localife_
 [github](https://github.com/geuxor/local-life)<br>
-_A P2P platform where Locals can share their daily activities with tourists_<br>
+_A P2P platform where Locals can share their daily activities with tourists_<br />
 `Javascript, TypeScript, React, Redux, CSS, Style-components, Express, Sequelize, Postgres, Redis, NestJS, Cloudinary, Geocoder`
 
 ### _Colonyal_
 [github](https://github.com/geuxor/colonyal)
-_A community of expat to share events, products and new articles_
+_A community of expat to share events, products and new articles_\
 `Javascript, React, Redux, SCSS, Express, Sequelize, Postgres`
 
 ### _WildFlower_
