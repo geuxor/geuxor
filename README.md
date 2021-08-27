@@ -51,7 +51,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # Tech Stack
 
 ```diff
-- text in red asdfas
+- asdf
 + text in green
 ! text in orange
 # text in gray
