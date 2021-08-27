@@ -51,5 +51,5 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # Tech Stack
 
 <p float="left" style="background-color:#fff;">
-  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="500"/>
+  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="600"/>
 </p>
