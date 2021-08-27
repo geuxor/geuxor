@@ -53,23 +53,8 @@ I have a strong desire to turn ideas into digital products and contribute with m
 <div class="text-white bg-gray-dark mb-2" style="background-color:#fff;">
   <span style="background-color:#fff">
   <p float="left" style="background-color:#fff;">
-  <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/express_resize.png" alt="Express" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/redux_resize.png" alt="Redux" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/react_resize.jpg" alt="React" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/node_resize.png" alt="Node" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/TS_resize.png" alt="TS" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/rails_resize.png" alt="Rails" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/ruby_resize.jpg" alt="Ruby" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/stripe connect_resize.jpeg" alt="Stripe" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/GoogleMaps_resize.png" alt="GoogleMaps" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/mongodb_resize.png" alt="Mongo" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/sequelize_resize.png" alt="Sequelize" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/redis_resize.png" alt="Redis" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/postgres_resize.jpg" alt="Postgres" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/heroku_resize.png" alt="Heroku" width="60"/>
-  <img src="https://euroamerican.dk/photo/localife/git_resize.png" alt="Git" width="60"/>
+  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="300"/>
+
   </p>
   </span>
 </div>
