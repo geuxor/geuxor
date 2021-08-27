@@ -1,6 +1,6 @@
 # Welcome... 👋
 
-**Full-stack Developer and Nature Explorer 🌱**
+**Full-stack Developer and Nature Explorer 🌱** focused on the JavaScript ecosystem
 
 ## Goal
 To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
@@ -15,7 +15,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 👯 Getting my Product Management Certification\
 ✨ Finishing my PPL Licence\
 
-Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
+## Current Projects
 
 ### _Localife_
 [github](https://github.com/geuxor/local-life)<br>
