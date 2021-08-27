@@ -52,9 +52,9 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 ```diff
 - asdf
-+ text in green
+! text in green
 ! text in orange
-# text in gray
+- text in gray
 @@ text in purple (and bold)@@
 ```
 
