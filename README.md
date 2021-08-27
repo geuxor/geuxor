@@ -50,6 +50,10 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
+</div>
+
 <style>{p"background-color:#fff";}</style>
 <span style="background-color:#fff">
  <p float="left" style="background-color:#fff;">
