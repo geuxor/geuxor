@@ -48,8 +48,8 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # Current Studies
 ⚡ Improving my TypeScript and NestJS skills
 
-# Tech Stack
+# My Tech Stack
 
 <p float="left" style="background-color:#fff;">
-  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="600"/>
+  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="700"/>
 </p>
