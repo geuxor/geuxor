@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full-stack Developer with a focus on the JavaScript ecosystem. Outside of programming I'm a nature explorer 🌱
+Full-stack Developer and Nature Explorer 🌱
 
-👯 I’m working on an awesome project that focuses on locals sharing their daily activities with tourists
+Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
+## Localife
+ _A P2P platform where Locals can share their daily activities with tourists_
+## Colonyal
+_A community of expat to share events, products and new articles_
+## WildFlower
+ _A Platform offering adventurous activities_
+## Hubbly
+_A Platform to help teachers build their websites in a fast and easy manner_
+>Ruby on Rails<
+
+# Goal
+To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
+
+# Desire
+I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
+
+# Current Studying
 ⚡ Improving my TypeScript and NestJS skills
+
