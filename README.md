@@ -50,4 +50,5 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
-![alt text](https://euroamerican.dk/photo/localife/css_resize.png "Logo Title Text 1")
+![CSS](https://euroamerican.dk/photo/localife/css_resize.png "CSS")
+<img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="100"/>
