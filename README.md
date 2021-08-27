@@ -1,6 +1,6 @@
 # Welcome... 👋
 
-**Full-stack Developer and Nature Explorer 🌱** focused on the JavaScript ecosystem
+**Full-stack Developer and Nature Explorer 🌱** Currently focused on the JavaScript ecosystem
 
 ## Goal
 To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
