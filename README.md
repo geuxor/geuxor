@@ -17,7 +17,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
 
-### _Localife_\
+### _Localife_
 [github](https://github.com/geuxor/local-life)<br>
 _A P2P platform where Locals can share their daily activities with tourists_<br />
 `Javascript, TypeScript, React, Redux, CSS, Style-components, Express, Sequelize, Postgres, Redis, NestJS, Cloudinary, Geocoder`
