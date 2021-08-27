@@ -18,15 +18,26 @@ Here are some ideas to get you started:
 Full-stack Developer and Nature Explorer 🌱
 
 Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
+
 ## _Localife_
- _A P2P platform where Locals can share their daily activities with tourists_
+[github](https://github.com/geuxor/local-life)
+_A P2P platform where Locals can share their daily activities with tourists_
+`Javascript, TypeScript, React, Redux, CSS, Style-components, Express, Sequelize, Postgres, Redis, NestJS, Cloudinary, Geocoder`
+
 ## _Colonyal_
+[github](https://github.com/geuxor/colonyal)
 _A community of expat to share events, products and new articles_
+`Javascript, React, Redux, SCSS, Express, Sequelize, Postgres`
+
 ## _WildFlower_
+[github](https://github.com/geuxor/wildflowerxp)
  _A Platform offering adventurous activities_
-[## _Hubbly_](https://www.google.com)
+`Ruby, Rail, Postgresql, Puma, SCSS, Turbolinks, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara`
+
+## _Hubbly_
+[github](https://github.com/RafaelFernandez/wslt)
 _A Platform to help teachers build their websites in a fast and easy manner_
->Ruby on Rails<
+`Ruby, Rail, Postgresql, Puma, SASS, Turbolinks, jbuilder, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara, Pundit, Devise`
 
 # Goal
 To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
@@ -37,3 +48,6 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # Current Studies
 ⚡ Improving my TypeScript and NestJS skills
 
+# Tech Stack
+
+!(https://euroamerican.dk/photo/localife/css_resize.png "CSS")
