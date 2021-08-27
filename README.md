@@ -50,5 +50,4 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
-!(https://euroamerican.dk/photo/localife/css_resize.png "CSS")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]((https://euroamerican.dk/photo/localife/css_resize.png "Logo Title Text 1")
