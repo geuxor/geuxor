@@ -51,7 +51,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # Tech Stack
 
 ```diff
-- text in red
+- text in red asdfas
 + text in green
 ! text in orange
 # text in gray
@@ -61,7 +61,8 @@ I have a strong desire to turn ideas into digital products and contribute with m
 <span style="background-color:#fff">
  <p float="left" style="background-color:#fff;">
  ```diff
-  - text in red```
+  - text in red
+  ```
  <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
  <img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="60"/>
 
