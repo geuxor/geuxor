@@ -49,7 +49,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ⚡ Improving my TypeScript and NestJS skills
 
 # Tech Stack
-<span style="background-color:green">
+<span style="background-color:#fff">
 
 <p float="left" style="background-color:#fff;">
 <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
