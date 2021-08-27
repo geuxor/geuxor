@@ -57,7 +57,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
+```
 <span style="background-color:#fff">
 
 <p float="left" style="background-color:#fff;">
@@ -86,4 +86,4 @@ I have a strong desire to turn ideas into digital products and contribute with m
 <img src="https://euroamerican.dk/photo/localife/git_resize.png" alt="Git" width="60"/>
 </p>
 
- </span>
+ </span>```
