@@ -9,11 +9,11 @@ To help organisations materialize winning products by conquering challenges in t
 I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
 
 ## Current Studies
-⚡ Improving my TypeScript and NestJS skills
-🔭 Deployment with Docker, AWS
-🌱 Playing with Expo and React Native
-👯 Getting my Product Management Certification
-✨ Finishing my PPL Licence
+⚡ Improving my TypeScript and NestJS skills\
+🔭 Deployment with Docker, AWS\
+🌱 Playing with Expo and React Native\
+👯 Getting my Product Management Certification\
+✨ Finishing my PPL Licence\
 
 Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
 
@@ -29,12 +29,12 @@ _A community of expat to share events, products and new articles_\
 
 ### _WildFlower_
 [github](https://github.com/geuxor/wildflowerxp)
- _A Platform offering adventurous activities_
+ _A Platform offering adventurous activities_\
 `Ruby, Rail, Postgresql, Puma, SCSS, Turbolinks, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara`
 
 ### _Hubbly_
 [github](https://github.com/RafaelFernandez/wslt)
-_A Platform to help teachers build their websites in a fast and easy manner_
+_A Platform to help teachers build their websites in a fast and easy manner_\
 `Ruby, Rail, Postgresql, Puma, SASS, Turbolinks, jbuilder, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara, Pundit, Devise`
 
 ## My Tech Stack
