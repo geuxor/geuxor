@@ -50,5 +50,27 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
-![CSS](https://euroamerican.dk/photo/localife/css_resize.png "CSS")
-<img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="100"/>
+<img src="https://euroamerican.dk/photo/localife/JS_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/html.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="60"/>
+
+<img src="https://euroamerican.dk/photo/localife/express_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/redux_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/react_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/node_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/TS_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/rails_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/ruby_resize.jpg" alt="CSS" width="60"/>
+
+
+<img src="https://euroamerican.dk/photo/localife/stripe connect_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/GoogleMaps_resize.png" alt="CSS" width="60"/>
+
+<img src="https://euroamerican.dk/photo/localife/mongodb_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/sequelize_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/redis_resize.png" alt="CSS" width="60"/>
+<img src="https://euroamerican.dk/photo/localife/postgres_resize.png" alt="CSS" width="60"/>
+
+<img src="https://euroamerican.dk/photo/localife/heroku_resize.png" alt="CSS" width="60"/>
+
+<img src="https://euroamerican.dk/photo/localife/git_resize.png" alt="CSS" width="60"/>
