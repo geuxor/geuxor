@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 Full-stack Developer and Nature Explorer 🌱
 
 Currently focused on the JavaScript ecosystem, I’m working on the following exciting projects:
-## Localife
+## _Localife_
  _A P2P platform where Locals can share their daily activities with tourists_
-## Colonyal
+## _Colonyal_
 _A community of expat to share events, products and new articles_
-## WildFlower
+## _WildFlower_
  _A Platform offering adventurous activities_
-## Hubbly
+[## _Hubbly_](https://www.google.com)
 _A Platform to help teachers build their websites in a fast and easy manner_
 >Ruby on Rails<
 
@@ -34,6 +34,6 @@ To help organisations materialize winning products by conquering challenges in t
 # Desire
 I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
 
-# Current Studying
+# Current Studies
 ⚡ Improving my TypeScript and NestJS skills
 
