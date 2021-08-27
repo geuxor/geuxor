@@ -49,7 +49,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ⚡ Improving my TypeScript and NestJS skills
 
 # Tech Stack
-<span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know.
+<span style="background-color:green">
 
 <p float="left" style="background-color:#fff;">
 <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
@@ -76,3 +76,5 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 <img src="https://euroamerican.dk/photo/localife/git_resize.png" alt="Git" width="60"/>
 </p>
+
+ </span>
