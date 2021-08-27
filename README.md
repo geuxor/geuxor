@@ -50,9 +50,10 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 # Tech Stack
 
+<style>{p"background-color:#fff";}</style>
 <span style="background-color:#fff">
  <p float="left" style="background-color:#fff;">
-  <style>{p"background-color:#fff";}</style>
+  
  <img src="https://euroamerican.dk/photo/localife/html.jpg" alt="HTML" width="60"/>
  <img src="https://euroamerican.dk/photo/localife/css_resize.png" alt="CSS" width="60"/>
 
