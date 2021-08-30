@@ -20,22 +20,69 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ### _Localife_
 [github](https://github.com/geuxor/local-life)<br>
 _A P2P platform where Locals can share their daily activities with tourists_<br />
-`Javascript, TypeScript, React, Redux, CSS, Style-components, Express, Sequelize, Postgres, Redis, NestJS, Cloudinary, Geocoder`
+![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
+![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
+![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
+![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
+![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
+![https://github.com/marak/Faker.js](https://img.shields.io/badge/faker--v1--white?style=for-the-badge&logo=npm)
+![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
+![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
+![https://www.material-ui.com](https://img.shields.io/badge/material--ui--white?style=for-the-badge&logo=materialui)
+![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
+![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
+![https://ant.design/](https://img.shields.io/badge/antd--v1--white?style=for-the-badge&logo=npm)
+![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
+![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
+![https://styled-components.com/](https://img.shields.io/badge/styled%20components--v1--white?style=for-the-badge&logo=styled-components)
+![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
 
 ### _Colonyal_
 [github](https://github.com/geuxor/colonyal)
 _A community of expat to share events, products and new articles_\
-`Javascript, React, Redux, SCSS, Express, Sequelize, Postgres`
+![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
+![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
+![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
+![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
+![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
+![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
+![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
+![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
+![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
+![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
 
 ### _WildFlower_
 [github](https://github.com/geuxor/wildflowerxp)
  _A Platform offering adventurous activities_\
-`Ruby, Rail, Postgresql, Puma, SCSS, Turbolinks, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara`
+![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
+![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
+![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
+![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
+![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
+![https://github.com/puma/puma](https://img.shields.io/badge/puma--v1--white?style=for-the-badge&logo=puma)
+![https://sass-lang.com/](https://img.shields.io/badge/sass--v1--white?style=for-the-badge&logo=sass)
+![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
+![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
+![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
+
 
 ### _Hubbly_
 [github](https://github.com/RafaelFernandez/wslt)
 _A Platform to help teachers build their websites in a fast and easy manner_\
-`Ruby, Rail, Postgresql, Puma, SASS, Turbolinks, jbuilder, Redis, Bcrypt, Bootsnap, Cloudinary, Geocoder, Capybara, Pundit, Devise`
+![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
+![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
+![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
+![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
+![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
+![https://github.com/puma/puma](https://img.shields.io/badge/puma--v1--white?style=for-the-badge&logo=puma)
+![https://sass-lang.com/](https://img.shields.io/badge/sass--v1--white?style=for-the-badge&logo=sass)
+![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
+![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
+![https://guides.railsgirls.com/devise](https://img.shields.io/badge/devise--v1--white?style=for-the-badge&logo=devise)
+![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
+![https://github.com/varvet/pundit](https://img.shields.io/badge/pundit--v1--white?style=for-the-badge&logo=pundit)
+![https://github.com/teamcapybara/capybara](https://img.shields.io/badge/capybara--v1--white?style=for-the-badge&logo=capybara)
+
 
 ## My Tech Stack
 
