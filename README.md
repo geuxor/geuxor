@@ -83,6 +83,19 @@ _A Platform to help teachers build their websites in a fast and easy manner_\
 ![https://github.com/varvet/pundit](https://img.shields.io/badge/pundit--v1--white?style=for-the-badge&logo=pundit)
 ![https://github.com/teamcapybara/capybara](https://img.shields.io/badge/capybara--v1--white?style=for-the-badge&logo=capybara)
 
+### _Read-it_
+[github](https://github.com/geuxor/legacy-readit)
+_A Platform to fetch books from Google API and save them to a wish list_\
+_Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_
+![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
+![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
+![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
+![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
+![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
+![https://testing-library.com/](https://img.shields.io/badge/testing-library--v1--white?style=for-the-badge&logo=testing-library)
+![https://jestjs.io/](https://img.shields.io/badge/jest--v1--white?style=for-the-badge&logo=jest)
+![https://babeljs.io/](https://img.shields.io/badge/babel--v1--white?style=for-the-badge&logo=babel)
+
 
 ## My Tech Stack
 
@@ -90,4 +103,7 @@ _A Platform to help teachers build their websites in a fast and easy manner_\
   <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="700"/>
 </p>
 
+[![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxor)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 [linkedIn](https://www.linkedin.com/in/german-b/)<br>
+
