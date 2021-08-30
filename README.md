@@ -86,7 +86,7 @@ _A Platform to help teachers build their websites in a fast and easy manner_\
 ### _Read-it_
 [github](https://github.com/geuxor/legacy-readit)
 _A Platform to fetch books from Google API and save them to a wish list_\
-_Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_
+_Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_\
 ![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
 ![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
 ![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
