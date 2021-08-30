@@ -103,9 +103,7 @@ _Responsible for refactoring the code using TypeScript and create Unit/End-end/I
   <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="700"/>
 </p>
 
-[![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxor&show_icons=true&theme=cobalt)]()
-
-
+[![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxor&show_icons=true&theme=cobalt)](https://github.com/geuxor)
 
 📫 [linkedIn](https://www.linkedin.com/in/german-b/)<br>
 
