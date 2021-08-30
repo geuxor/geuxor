@@ -13,7 +13,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 🔭 Deployment with Docker, AWS\
 🌱 Playing with Expo and React Native\
 👯 Getting my Product Management Certification\
-✨ Finishing my PPL Licence\
+✨ Finishing my PPL Licence
 
 ## Current Projects
 
