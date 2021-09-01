@@ -18,7 +18,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ## Current Projects
 
 ### _Localife_
-[github](https://github.com/geuxor/local-life)<br>
+[github](https://github.com/geuxor/locallife-frontend)<br>
 _A P2P platform where Locals can share their daily activities with tourists_<br />
 ![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
 ![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
