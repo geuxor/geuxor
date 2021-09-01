@@ -83,8 +83,7 @@ _A Platform to help teachers build their websites in a fast and easy manner_\
 ![https://github.com/varvet/pundit](https://img.shields.io/badge/pundit--v1--white?style=for-the-badge&logo=pundit)
 ![https://github.com/teamcapybara/capybara](https://img.shields.io/badge/capybara--v1--white?style=for-the-badge&logo=capybara)
 
-### _Read-it_
-[github](https://github.com/geuxor/legacy-readit)
+### _Read-it_ [github](https://github.com/geuxor/legacy-readit)\
 _A Platform to fetch books from Google API and save them to a wish list_\
 _Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_\
 ![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
@@ -100,7 +99,7 @@ _Responsible for refactoring the code using TypeScript and create Unit/End-end/I
 ## My Tech Stack
 
 <p float="left" style="background-color:#fff;">
-  <img src="https://euroamerican.dk/photo/localife/mystack.png" alt="Stack" width="700"/>
+  <img src="https://euroamerican.dk/photo/stack/mystack.png" alt="Stack" width="700"/>
 </p>
 
 [![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxor&show_icons=true&theme=cobalt)](https://github.com/geuxor)
