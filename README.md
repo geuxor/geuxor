@@ -12,7 +12,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 ⚡ Improving my TypeScript and NestJS skills\
 🔭 Deployment with Docker, AWS\
 🌱 Playing with Expo and React Native\
-👯 Getting my Product Management Certification\
+👯 Getting my Scrum Certification\
 ✨ Finishing my PPL Licence
 
 ## Current Projects
