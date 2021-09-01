@@ -17,8 +17,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 ## Current Projects
 
-### _Localife_
-[github](https://github.com/geuxor/localife-frontend)<br>
+### [_Localife_](https://github.com/geuxor/localife-frontend)<br>
 _A P2P platform where Locals can share their daily activities with tourists_<br />
 ![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
 ![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
@@ -37,8 +36,7 @@ _A P2P platform where Locals can share their daily activities with tourists_<br 
 ![https://styled-components.com/](https://img.shields.io/badge/styled%20components--v1--white?style=for-the-badge&logo=styled-components)
 ![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
 
-### _Colonyal_
-[github](https://github.com/geuxor/colonyal)
+### [_Colonyal_](https://github.com/geuxor/colonyal)
 _A community of expat to share events, products and new articles_\
 ![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
 ![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
@@ -51,8 +49,7 @@ _A community of expat to share events, products and new articles_\
 ![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
 ![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
 
-### _WildFlower_
-[github](https://github.com/geuxor/wildflowerxp)
+### [_WildFlower_](https://github.com/geuxor/wildflowerxp)
  _A Platform offering adventurous activities_\
 ![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
 ![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
@@ -66,8 +63,7 @@ _A community of expat to share events, products and new articles_\
 ![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
 
 
-### _Hubbly_
-[github](https://github.com/RafaelFernandez/wslt)
+### [_Hubbly_](https://github.com/RafaelFernandez/wslt)
 _A Platform to help teachers build their websites in a fast and easy manner_\
 ![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
 ![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
@@ -83,7 +79,7 @@ _A Platform to help teachers build their websites in a fast and easy manner_\
 ![https://github.com/varvet/pundit](https://img.shields.io/badge/pundit--v1--white?style=for-the-badge&logo=pundit)
 ![https://github.com/teamcapybara/capybara](https://img.shields.io/badge/capybara--v1--white?style=for-the-badge&logo=capybara)
 
-### _Read-it_ [github](https://github.com/geuxor/legacy-readit)\
+### [_Read-it_](https://github.com/geuxor/legacy-readit)
 _A Platform to fetch books from Google API and save them to a wish list_\
 _Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_\
 ![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
