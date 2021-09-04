@@ -35,6 +35,8 @@ _A P2P platform where Locals can share their daily activities with tourists_<br 
 ![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
 ![https://styled-components.com/](https://img.shields.io/badge/styled%20components--v1--white?style=for-the-badge&logo=styled-components)
 ![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
+![https://herokuapp.com/](https://img.shields.io/badge/heroku--v1--white?style=for-the-badge&logo=heroku)
+![https://netlify.app/](https://img.shields.io/badge/netlify--v1--white?style=for-the-badge&logo=netlify)
 
 ### [_Colonyal_](https://github.com/geuxor/colonyal)
 _A community of expat to share events, products and new articles_\
