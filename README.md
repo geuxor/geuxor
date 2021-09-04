@@ -27,7 +27,6 @@ _A P2P platform where Locals can share their daily activities with tourists_<br 
 ![https://github.com/marak/Faker.js](https://img.shields.io/badge/faker--v1--white?style=for-the-badge&logo=npm)
 ![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
 ![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://www.material-ui.com](https://img.shields.io/badge/material--ui--white?style=for-the-badge&logo=materialui)
 ![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
 ![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
 ![https://ant.design/](https://img.shields.io/badge/antd--v1--white?style=for-the-badge&logo=npm)
@@ -93,7 +92,7 @@ _Responsible for refactoring the code using TypeScript and create Unit/End-end/I
 ![https://testing-library.com/](https://img.shields.io/badge/testing-library--v1--white?style=for-the-badge&logo=testing-library)
 ![https://jestjs.io/](https://img.shields.io/badge/jest--v1--white?style=for-the-badge&logo=jest)
 ![https://babeljs.io/](https://img.shields.io/badge/babel--v1--white?style=for-the-badge&logo=babel)
-
+![https://www.material-ui.com](https://img.shields.io/badge/material--ui--white?style=for-the-badge&logo=materialui)
 
 ## My Tech Stack
 
