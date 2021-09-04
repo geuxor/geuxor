@@ -61,6 +61,7 @@ _A community of expat to share events, products and new articles_\
 ![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
 ![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
 ![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
+![http://www.elasticsearch.com/](https://img.shields.io/badge/elasticsearch--v1--white?style=for-the-badge&logo=elasticsearch)
 
 
 ### [_Hubbly_](https://github.com/RafaelFernandez/wslt)
