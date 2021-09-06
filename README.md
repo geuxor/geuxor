@@ -10,8 +10,8 @@ I have a strong desire to turn ideas into digital products and contribute with m
 
 ## Current Studies
 ⚡ Improving my TypeScript and NestJS skills\
-🔭 Deployment with Docker, AWS\
-🌱 Playing with Expo and React Native\
+🔭 More deployments with Docker, AWS\
+🌱 Playing with Vue, Expo and React Native\
 👯 Getting my Scrum Certification\
 ✨ Finishing my PPL Licence
 
