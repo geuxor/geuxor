@@ -15,7 +15,7 @@ I have a strong desire to turn ideas into digital products and contribute with m
 👯 Getting my Scrum Certification\
 ✨ Finishing my PPL Licence
 
-## Current Projects
+## Work Experience
 
 ### [_Localife_](https://github.com/geuxor/localife-frontend)<br>
 _A P2P platform where Locals can share their daily activities with tourists_<br />
