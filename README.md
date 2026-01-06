@@ -9,11 +9,9 @@ To help organisations materialize winning products by conquering challenges in t
 I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
 
 ## Current Studies
-⚡ Improving my TypeScript and NestJS skills\
-🔭 More deployments with Docker, AWS\
+🔭 CD/CD deployments, AWS, Google \
 🌱 Playing with Vue, Expo and React Native\
 👯 Getting my Scrum Certification\
-✨ Finishing my PPL Licence
 
 ## Work Experience
 
