@@ -1,104 +1,116 @@
-# Welcome... 👋
+# 👋 Hi, I’m German
 
-**Full-stack Developer and Nature Explorer 🌱** Currently focused on the JavaScript ecosystem
+**Full-Stack JavaScript Developer** with a strong background in building, integrating, and operating API-driven products.  
+I focus on turning complex business and technical requirements into reliable, maintainable software across the full product lifecycle.
 
-## Goal
-To help organisations materialize winning products by conquering challenges in the global business and tech -world. 
+---
 
-## Desire
-I have a strong desire to turn ideas into digital products and contribute with my wide business vision while racking my brain with all stages of the product lifecycle.
+## 🧠 Profile
+I work hands-on across frontend, backend, APIs, and integrations. My experience spans product platforms, payments, logistics, and travel tech, with a strong focus on automation, developer experience, and reducing operational friction through code.
 
-## Current Studies
-🔭 CD/CD deployments, AWS, Google \
-🌱 Playing with Vue, Expo and React Native\
-👯 Getting my Scrum Certification\
+---
 
-## Work Experience
+## 🧩 What I Do Well
+- Build and ship backend features end-to-end  
+- Design, implement, and integrate REST APIs  
+- Automate manual workflows and customer integrations  
+- Refactor and modernize legacy systems  
+- Translate complex domain logic into clean, scalable code  
 
-### [_Localife_](https://github.com/geuxor/localife-frontend)<br>
-_A P2P platform where Locals can share their daily activities with tourists_<br />
-![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
-![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
-![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
-![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
-![https://github.com/marak/Faker.js](https://img.shields.io/badge/faker--v1--white?style=for-the-badge&logo=npm)
-![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
-![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
-![https://ant.design/](https://img.shields.io/badge/antd--v1--white?style=for-the-badge&logo=npm)
-![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
-![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
-![https://styled-components.com/](https://img.shields.io/badge/styled%20components--v1--white?style=for-the-badge&logo=styled-components)
-![https://eslint.org/](https://img.shields.io/badge/eslint--v1--white?style=for-the-badge&logo=eslint)
-![https://herokuapp.com/](https://img.shields.io/badge/heroku--v1--white?style=for-the-badge&logo=heroku)
-![https://netlify.app/](https://img.shields.io/badge/netlify--v1--white?style=for-the-badge&logo=netlify)
+---
 
-### [_Colonyal_](https://github.com/geuxor/colonyal)
-_A community of expat to share events, products and new articles_\
-![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
-![https://redis.io](https://img.shields.io/badge/redis--v1--white?style=for-the-badge&logo=redis)
-![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
-![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
-![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
-![https://github.com/axios/axios](https://img.shields.io/badge/axios--v1--white?style=for-the-badge&logo=npm)
-![https://redux.js.org/](https://img.shields.io/badge/redux--v1--white?style=for-the-badge&logo=redux)
+## 💼 Experience
 
-### [_WildFlower_](https://github.com/geuxor/wildflowerxp)
- _A Platform offering adventurous activities_\
-![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
-![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
-![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://github.com/puma/puma](https://img.shields.io/badge/puma--v1--white?style=for-the-badge&logo=puma)
-![https://sass-lang.com/](https://img.shields.io/badge/sass--v1--white?style=for-the-badge&logo=sass)
-![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
-![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
-![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
-![http://www.elasticsearch.com/](https://img.shields.io/badge/elasticsearch--v1--white?style=for-the-badge&logo=elasticsearch)
+- **EuroAmerican Adventures** – Built & owned a booking management platform – **2024**  
+  - Built backend services and APIs for booking and availability workflows  
 
+- **WORLDSPAN** — *API Consultant* · London, UK  
+  *Mar. 2007 – May 2010*  
+  - Maintained XSL transformations and EDIFACT/XML message flows for high-traffic GDS APIs  
 
-### [_Hubbly_](https://github.com/RafaelFernandez/wslt)
-_A Platform to help teachers build their websites in a fast and easy manner_\
-![https://www.ruby-lang.org/en](https://img.shields.io/badge/ruby--v1--white?style=for-the-badge&logo=ruby)
-![https://rubyonrails.org/](https://img.shields.io/badge/rails--v1--white?style=for-the-badge&logo=rails)
-![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://www.stripe.com](https://img.shields.io/badge/stripe%20Connect--v1--white?style=for-the-badge&logo=stripe)
-![https://www.cloudinary.com](https://img.shields.io/badge/cloudinary--v1--white?style=for-the-badge&logo=cloudinary)
-![https://github.com/puma/puma](https://img.shields.io/badge/puma--v1--white?style=for-the-badge&logo=puma)
-![https://sass-lang.com/](https://img.shields.io/badge/sass--v1--white?style=for-the-badge&logo=sass)
-![https://github.com/turbolinks/turbolinks](https://img.shields.io/badge/turbolinks--v1--white?style=for-the-badge&logo=turbolinks)
-![https://www.npmjs.com/package/bcrypt](https://img.shields.io/badge/bcrypt--v1--white?style=for-the-badge&logo=npm)
-![https://guides.railsgirls.com/devise](https://img.shields.io/badge/devise--v1--white?style=for-the-badge&logo=devise)
-![http://www.rubygeocoder.com/](https://img.shields.io/badge/geocoder--v1--white?style=for-the-badge&logo=geocoder)
-![https://github.com/varvet/pundit](https://img.shields.io/badge/pundit--v1--white?style=for-the-badge&logo=pundit)
-![https://github.com/teamcapybara/capybara](https://img.shields.io/badge/capybara--v1--white?style=for-the-badge&logo=capybara)
+- **TRAVELPORT** — *Solutions Engineer* · Denmark  
+  *Sep. 2014 – Nov. 2018*  
+  - Built JavaScript and PHP integrations against **Universal API (GDS)** to automate customer workflows and reduce costs  
 
-### [_Read-it_](https://github.com/geuxor/legacy-readit)
-_A Platform to fetch books from Google API and save them to a wish list_\
-_Responsible for refactoring the code using TypeScript and create Unit/End-end/Integration Testing_\
-![https://www.typescriptlang.org](https://img.shields.io/badge/typescript--v1--white?style=for-the-badge&logo=typescript)
-![https://www.reactjs.org](https://img.shields.io/badge/react--v1--white?style=for-the-badge&logo=react)
-![https://expressjs.com](https://img.shields.io/badge/express--v1--white?style=for-the-badge&logo=express)
-![https://sequelize.org](https://img.shields.io/badge/sequelize--v1--white?style=for-the-badge&logo=sequelize)
-![https://www.postgresql.org](https://img.shields.io/badge/postgresQL--v1--white?style=for-the-badge&logo=postgresQL)
-![https://testing-library.com/](https://img.shields.io/badge/testing-library--v1--white?style=for-the-badge&logo=testing-library)
-![https://jestjs.io/](https://img.shields.io/badge/jest--v1--white?style=for-the-badge&logo=jest)
-![https://babeljs.io/](https://img.shields.io/badge/babel--v1--white?style=for-the-badge&logo=babel)
-![https://www.material-ui.com](https://img.shields.io/badge/material--ui--white?style=for-the-badge&logo=materialui)
+- **ALTAPAY** — *Software Engineer (API Platform)* · Denmark  
+  *Nov. 2021 – Nov. 2023*  
+  - Built and evolved backend services and APIs in **Node.js** to streamline customer onboarding  
+  - Developed a customer-facing **React** interface supporting integrations and onboarding  
 
-## My Tech Stack
+- **PAACK** — *Technical Solutions Engineer* · Spain  
+  *Nov. 2023 – Aug. 2025*  
+  - Built Node.js services and React tools to automate and streamline customer API integrations  
+
+---
+
+## 🧩 Projects
+
+### [_Localife_](https://github.com/geuxor/localife-frontend)  
+_P2P platform where locals share activities with travelers_
+
+- Built backend APIs and frontend flows  
+- Integrated payments (Stripe Connect), authentication, media handling  
+- Designed scalable data models and services  
+- Deployed and operated production environments  
+
+**Stack:** Node.js · Express · PostgreSQL · Sequelize · React · TypeScript · Redis · Stripe · Cloudinary  
+
+---
+
+### [_Colonyal_](https://github.com/geuxor/colonyal)  
+_Community platform for expats_
+
+- Developed full-stack features for content, events, and user interaction  
+- Implemented authentication, authorization, and API integrations  
+
+**Stack:** Node.js · Express · PostgreSQL · React · Redux  
+
+---
+
+### [_Read-it_](https://github.com/geuxor/legacy-readit)  
+_Book discovery and wishlist application_
+
+- Refactored legacy JavaScript codebase to **TypeScript**  
+- Added unit, integration, and end-to-end tests  
+
+**Stack:** TypeScript · React · Express · PostgreSQL · Jest · Testing Library  
+
+---
+
+### [_WildFlower_](https://github.com/geuxor/wildflowerxp)  
+_Adventure activities platform_
+
+- Built and maintained full-stack Ruby on Rails application  
+- Integrated payments, search, authentication, and geolocation  
+
+**Stack:** Ruby · Rails · PostgreSQL · Stripe · Elasticsearch · Sass  
+
+---
+
+### [_Hubbly_](https://github.com/RafaelFernandez/wslt)  
+_Platform to help teachers build websites quickly_
+
+- Developed full-stack Rails features  
+- Implemented authentication, authorization, and content workflows  
+
+**Stack:** Ruby · Rails · PostgreSQL · Stripe · Devise · Pundit · Capybara  
+
+---
+
+## 🛠 My Tech Stack
 
 <p float="left" style="background-color:#fff;">
   <img src="https://euroamerican.dk/photo/stack/mystack.png" alt="Stack" width="700"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 [![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxor&show_icons=true&theme=cobalt)](https://github.com/geuxor)
 
-📫 [linkedIn](https://www.linkedin.com/in/german-b/)<br>
+---
 
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/german-b/)
