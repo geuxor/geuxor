@@ -1,4 +1,4 @@
-# 👋 Hi, I’m German
+# 👋 Hi, I’m Germán
 
 **Full-Stack JavaScript Developer** with a strong background in building, integrating, and operating API-driven products.  
 I focus on turning complex business and technical requirements into reliable, maintainable software across the full product lifecycle.
