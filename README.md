@@ -33,14 +33,12 @@ I work hands-on across frontend, backend, APIs, and integrations. My experience 
 - Deployed and operated production environments  
 - Integrated payments, search, authentication, and geolocation
 
-**Stack:** Node.js · Express · PostgreSQL · Sequelize · React · TypeScript · Redis · Stripe · Cloudinary · Redux · Jest · Testing Library · Ruby · Rails · Elasticsearch · Sass · Devise · Pundit · Capybara  
-
 ## 🛠 My Tech Stack
 
 <p float="left" style="background-color:#fff;">
   <img src="https://euroamerican.dk/photo/stack/mystack.png" alt="Stack" width="700"/>
 </p>
-
+Node.js · Express · PostgreSQL · Sequelize · React · TypeScript · Redis · Stripe · Cloudinary · Redux · Jest · Testing Library · Ruby · Rails · Elasticsearch · Sass · Devise · Pundit · Capybara  
 ---
 
 ## 📊 GitHub Stats
